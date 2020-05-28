@@ -18,7 +18,8 @@ The best solution found is:
 ### Continuous optimization synthesis table
 
 | Result| F1-D=50 | F1-D=500 | F2-D=50 | F2-D=500 | F3-D=50 | F3-D=500 | F4-D=50 | F4-D=500 | F5-D=50 | F5-D=500 | F6-D=50 | F6-D=500 |
----------------------------------------------------------------------------------------------------------------------------------------
+|-------|---------|----------|---------|----------|---------|----------|---------|----------|---------|----------|---------|----------|
+
 The chosen algorithm and a justification of this choice - The parameters of the algorithm - The final results, both solution and fitness - The number of function evaluations - The stopping criterion - The computational time - The convergence curve (fitness as a function of time) 
 
 ### 2.2 TSP - Qatar
