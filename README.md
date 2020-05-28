@@ -37,11 +37,11 @@ Results are given hereunder:
 This is a continuous function with a global minimum, but not derivable at this optimum. Nevertheless, we use a minimize function with gradient descent algorithm.  
 Results are given hereunder: 
 - for D=50:  
-![F2 dim 50](/4.%20F1%20Sphere/F2_50.PNG)  
+![F2 dim 50](/4.%20F2/F2_50.PNG)  
 
 - for D= 500:  
-![F2 dim 500](/4.%20F1%20Sphere/F2_500_1.PNG)  
-![F2 dim 500_2](/4.%20F1%20Sphere/F2_500_2.PNG)  
+![F2 dim 500](/4.%20F2/F2_500_1.PNG)  
+![F2 dim 500_2](/4.%20F2/F2_500_2.PNG)  
   
 ### 2.5 F3 - Shifted Rosenbrock’s Function
 This is a continuous function with a global minimum but also having a very narrow valley from local optimum to global optimum. This may affect the performance of the gradient descent optimization algorithm. Nevertheless we keep using a minimize function here.  
