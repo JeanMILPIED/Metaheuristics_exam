@@ -3,7 +3,8 @@ my work for DSTI A19 metaheuristics exam
 
 ## 1. structure of the reports
 In each folder, one can find the python Jupyter notebook to run the optimisation of the problem, and the image of the solutions.   
-The solutions to the problems are shared in this readme.
+The solutions to the problems are shared in this readme.  
+the python packages used are numpy, pandas, scipy.optimize
 
 ## 2. Problem solutions
 ### 2.1 TSP - Djibouti
@@ -23,11 +24,32 @@ The best solution found is:
 ![TSP-Qatar solution](/2.%20TSP%20Qatar/TSP_qatar.PNG)
 
 ### 2.3 F1 - Shifted Sphere Function
-we use a simple minimize function with gradient algo.
+This is a linear and derivable function. We use a simple minimize function with gradient algo.
+Results are given hereunder:  
+- for D=50:
+
+
+- for D= 500:
+
+
+
 
 ### 2.4 F2 - Shifted Schwefel’s Problem 2.21
+This is a continuous function with a global minimum, but not derivable at this optimum. Nevertheless, we use a minimize function with gradient descent algorithm.  
+Results are given hereunder: 
+- for D=50:
+
+
+- for D= 500:
+
 
 ### 2.5 F3 - Shifted Rosenbrock’s Function
+This is a continuous function with a global minimum but also having a very narrow valley from local optimum to global optimum. This may affect the performance of the gradient descent optimization algorithm. Nevertheless we keep using a minimize function here.  
+Results are given hereunder: 
+- for D=50:
+
+
+- for D= 500:
 
 ### 2.6 F4 - Shifted Rastrigin’s Function
 
