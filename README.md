@@ -61,9 +61,21 @@ Results are given hereunder:
 
 ### 2.7 F5 - Shifted Griewank’s Function
 This is a continuous function and the challenge is here in the very broad range of values.  
-We prefere continuing with a GA optimization algorithm.
+We prefer continuing with a GA optimization algorithm.
+Results are given hereunder: 
+- for D=50:
+
+
+- for D= 500:
 
 
 ### 2.8 F6 - Shifted Ackley’s Function
+This is a continuous function with a sharp optimum where gradients are very high and not differentiable at the global optimum.  
+We apply GA for this optimiation problem too.
+Results are given hereunder: 
+- for D=50:
+
+
+- for D= 500:
 
 
