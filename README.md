@@ -27,9 +27,12 @@ The best solution found is:
 This is a linear and derivable function. We use a simple minimize function with gradient algo.
 Results are given hereunder:  
 - for D=50:
+![F1 dim 50](/3.%20F1%20Sphere/F1_50.PNG)
 
 
 - for D= 500:
+![F1 dim 500](/3.%20F1%20Sphere/F1_500_1.PNG)
+![F1 dim 500_2](/3.%20F1%20Sphere/F1_500_2.PNG)
 
 
 
