@@ -60,6 +60,8 @@ Results are given hereunder:
 - for D= 500:
 
 ### 2.7 F5 - Shifted Griewank’s Function
+This is a continuous function and the challenge is here in the very broad range of values.  
+We prefere continuing with a GA optimization algorithm.
 
 
 ### 2.8 F6 - Shifted Ackley’s Function
