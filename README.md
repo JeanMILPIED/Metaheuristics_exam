@@ -7,10 +7,14 @@ The solutions to the problems are shared in this readme.
 
 ## 2. Problem solutions
 ### 2.1 TSP - Djibouti
-The thinking process is highly described in the Jupyter notebook.
+The thinking process is highly described in the Jupyter notebook.  
+For this discrete optimisation problem, we used a a random 2 by 2 swap home coded algorithm encapsulated in a simulated annealing shell to overcome local minima. Everything was coded in numpy array to optimize compute cost.  
+The best solution found is:  
+![TSP-Djibouti solution](/images/logo.png)
+Format: ![Alt Text](url)
 
 ### 2.2 TSP - Qatar
-The same algorithm is used as for Djibouti.  
+The same algorithm as for Djibouti is used.  
 The performance achieved is correct with smart initialisation + generation of random solutions + SImulated annealing to overcome local mimimums.
 
 ### 2.3 F1 - Shifted Sphere Function
