@@ -57,26 +57,32 @@ Results are given hereunder:
 ### 2.6 F4 - Shifted Rastrigin’s Function
 This is a continuous function with a global optimum but Local optima’s number is huge. We prefer here to use a genetic algorithm to more quickly converge towards the optimum solution.
 Results are given hereunder: 
-- for D=50:
+- for D=50:  
+![F4 dim 50](/6.%20F4/F4_50_1.PNG)  
+![F4 dim 50_2](/6.%20F4/F4_50_2.PNG)
 
+- for D= 500: we don't achieve to run this in apporopriate time...
 
-- for D= 500:
 
 ### 2.7 F5 - Shifted Griewank’s Function
 This is a continuous function and the challenge is here in the very broad range of values.  
 We prefer continuing with a GA optimization algorithm.
 Results are given hereunder: 
-- for D=50:
+- for D=50:  
+![F5 dim 50](/7.%20F5/F5_50_1.PNG)
+![F5 dim 50_2](/7.%20F5/F5_50_2.PNG)  
 
+- for D= 500:  
 
-- for D= 500:
 
 
 ### 2.8 F6 - Shifted Ackley’s Function
 This is a continuous function with a sharp optimum where gradients are very high and not differentiable at the global optimum.  
 We apply GA for this optimiation problem too.
 Results are given hereunder: 
-- for D=50:
+- for D=50:  
+![F6 dim 50](/7.%20F6/F6_50_1.PNG)  
+![F6 dim 50_2](/7.%20F6/F6_50_2.PNG)
 
 
 - for D= 500:
