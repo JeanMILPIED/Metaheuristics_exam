@@ -18,9 +18,9 @@ The best solution found is:
 The same algorithm as for Djibouti is used.  
 The performance achieved is correct with smart initialisation + generation of random solutions + SImulated annealing to overcome local mimimums.  
 The best solution found is:  
-- cost: 6659
-- time computing: <1min
-![TSP-Qatar solution](/2.%20TSP%20qatar/TSP_qatar.PNG)
+- cost: 10582
+- time computing: 14min
+![TSP-Qatar solution](/2.%20TSP%20Qatar/TSP_qatar.PNG)
 
 ### 2.3 F1 - Shifted Sphere Function
 we use a simple minimize function with gradient algo.
