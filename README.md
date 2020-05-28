@@ -49,11 +49,18 @@ Results are given hereunder:
 - for D=50:
 
 
-- for D= 500:
+- for D= 500: we don't achieve to get to the global optimum.
 
 ### 2.6 F4 - Shifted Rastrigin’s Function
+This is a continuous function with a global optimum but Local optima’s number is huge. We prefer here to use a genetic algorithm to more quickly converge towards the optimum solution.
+Results are given hereunder: 
+- for D=50:
+
+
+- for D= 500:
 
 ### 2.7 F5 - Shifted Griewank’s Function
+
 
 ### 2.8 F6 - Shifted Ackley’s Function
 
