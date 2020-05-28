@@ -81,8 +81,8 @@ This is a continuous function with a sharp optimum where gradients are very high
 We apply GA for this optimiation problem too.
 Results are given hereunder: 
 - for D=50:  
-![F6 dim 50](/7.%20F6/F6_50_1.PNG)  
-![F6 dim 50_2](/7.%20F6/F6_50_2.PNG)
+![F6 dim 50](/8.%20F6/F6_50_1.PNG)  
+![F6 dim 50_2](/8.%20F6/F6_50_2.PNG)
 
 
 - for D= 500:
