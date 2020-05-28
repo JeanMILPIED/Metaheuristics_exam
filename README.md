@@ -27,7 +27,7 @@ The best solution found is:
 please find hereunder the synthesis table for continuous optimization results.
 The D500 problems were not achieved in reasonable amount of time with teh chosen algorithm. A grid search of GA hyperparameters ay help to find best candidates of parameters. Also, the use of another python package like pygmo could help achieve better convergence and computation time for high dim problems.  
 the non linear pseudo newtonian BFGS algorithm showed good results for F1 to F3 functions. For F1 and F2, simplex algo could also be used.  
-![synthesis table](/Synthesis.PNG ) 
+![synthesis table](/synthesis.PNG ) 
 
 ### 2.3 F1 - Shifted Sphere Function
 This is a linear and derivable function. We use a simple minimize function with gradient algo.
