@@ -46,10 +46,13 @@ Results are given hereunder:
 ### 2.5 F3 - Shifted Rosenbrock’s Function
 This is a continuous function with a global minimum but also having a very narrow valley from local optimum to global optimum. This may affect the performance of the gradient descent optimization algorithm. Nevertheless we keep using a minimize function here.  
 Results are given hereunder: 
-- for D=50:
+- for D=50:  
+![F3 dim 50](/5.%20F3/F3_50_1.PNG)  
+![F3 dim 50_2](/5.%20F3/F3_50_2.PNG)   
 
-
-- for D= 500: we don't achieve to get to the global optimum.
+- for D= 500: we don't achieve to get to the global optimum.  
+![F3 dim 500](/5.%20F3/F3_500_1.PNG)  
+![F3 dim 500_2](/5.%20F3/F3_500_2.PNG) 
 
 ### 2.6 F4 - Shifted Rastrigin’s Function
 This is a continuous function with a global optimum but Local optima’s number is huge. We prefer here to use a genetic algorithm to more quickly converge towards the optimum solution.
