@@ -10,8 +10,7 @@ The solutions to the problems are shared in this readme.
 The thinking process is highly described in the Jupyter notebook.  
 For this discrete optimisation problem, we used a a random 2 by 2 swap home coded algorithm encapsulated in a simulated annealing shell to overcome local minima. Everything was coded in numpy array to optimize compute cost.  
 The best solution found is:  
-![TSP-Djibouti solution](/images/logo.png)
-Format: ![Alt Text](url)
+![TSP-Djibouti solution](/blob/master/1.%20TSP%20djibouti/TSP%5E_djibouti.PNG)
 
 ### 2.2 TSP - Qatar
 The same algorithm as for Djibouti is used.  
