@@ -26,26 +26,23 @@ The best solution found is:
 ### 2.3 F1 - Shifted Sphere Function
 This is a linear and derivable function. We use a simple minimize function with gradient algo.
 Results are given hereunder:  
-- for D=50:
-![F1 dim 50](/3.%20F1%20Sphere/F1_50.PNG)
-
-
-- for D= 500:
-![F1 dim 500](/3.%20F1%20Sphere/F1_500_1.PNG)
-![F1 dim 500_2](/3.%20F1%20Sphere/F1_500_2.PNG)
-
-
-
-
+- for D=50:  
+![F1 dim 50](/3.%20F1%20Sphere/F1_50.PNG)  
+  
+- for D= 500:  
+![F1 dim 500](/3.%20F1%20Sphere/F1_500_1.PNG)  
+![F1 dim 500_2](/3.%20F1%20Sphere/F1_500_2.PNG)  
+  
 ### 2.4 F2 - Shifted Schwefel’s Problem 2.21
 This is a continuous function with a global minimum, but not derivable at this optimum. Nevertheless, we use a minimize function with gradient descent algorithm.  
 Results are given hereunder: 
-- for D=50:
+- for D=50:  
+![F2 dim 50](/4.%20F1%20Sphere/F2_50.PNG)  
 
-
-- for D= 500:
-
-
+- for D= 500:  
+![F2 dim 500](/4.%20F1%20Sphere/F2_500_1.PNG)  
+![F2 dim 500_2](/4.%20F1%20Sphere/F2_500_2.PNG)  
+  
 ### 2.5 F3 - Shifted Rosenbrock’s Function
 This is a continuous function with a global minimum but also having a very narrow valley from local optimum to global optimum. This may affect the performance of the gradient descent optimization algorithm. Nevertheless we keep using a minimize function here.  
 Results are given hereunder: 
