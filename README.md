@@ -93,7 +93,7 @@ Results are given hereunder:
 
 
 - for D= 500: too long not converging  
-![F6 dim 50](/8.%20F6/F6_500_1.PNG)  
-![F6 dim 50_2](/8.%20F6/F6_500_2.PNG)
+![F6 dim 50](/8.%20F6/F6_500.PNG)  
+![F6 dim 50_2](/8.%20F6/F6_500_1.PNG)
 
 
